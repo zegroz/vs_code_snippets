@@ -1,6 +1,11 @@
-# vs_code_snippets
+# Create your own Visual Studio Code snippets
+
 Visual Studio Code snippets
 
+
+**Windows: File > Preferences <br />
+macOS: Code > Preferences** <br /> <br />
+vs_code_snippets.code-snippets 
 ```json
 {
 	"log output": {
