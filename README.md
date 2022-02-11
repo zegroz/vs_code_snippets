@@ -3,8 +3,8 @@
 Visual Studio Code snippets
 
 
-**Windows: File > Preferences <br />
-macOS: Code > Preferences** <br /> <br />
+Windows: **File > Preferences** <br />
+macOS: **Code > Preferences** <br /> <br />
 vs_code_snippets.code-snippets 
 ```json
 {
@@ -58,4 +58,8 @@ vs_code_snippets.code-snippets
 	"description": "Create a class"
 	}
 }
+```
+location:
+```
+C:\Users\[UserName]\AppData\Roaming\Code\User\snippets\vs_code_snippets.code-snippets
 ```
