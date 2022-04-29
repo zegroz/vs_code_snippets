@@ -2,6 +2,8 @@
 
 Visual Studio Code snippets
 
+C:\Users\\[user]\AppData\Roaming\Code\User </br>
+![grafik](https://user-images.githubusercontent.com/5676113/165905586-888cebb4-526e-41db-b7f7-c678203cb70a.png)
 
 Windows: **File > Preferences** <br />
 macOS: **Code > Preferences** <br /> <br />
